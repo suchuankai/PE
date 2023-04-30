@@ -1,9 +1,9 @@
 # PE
-In this project, single-PE communication has been implemented using the row stationary concept described in the Eyeriss paper.  
+  In this project, single-PE communication has been implemented using the row stationary concept described in the Eyeriss paper.  
 There are two input feature maps, each with a size of 3x4x3, and two filters, each with a size of 3x3x3.
 ## Architecture
 ![architecture drawio (2)](https://user-images.githubusercontent.com/69788052/235361569-a632de7b-059a-4b93-85fa-4828e51c13c0.png)
-## The function of each .v file
+## Function of each .v file
 |  **Code**         | **Function**  |
 |  ---------------  | ------------  |
 |  PE.v             | The top module designed for wiring purposes.  |
