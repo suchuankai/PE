@@ -3,7 +3,7 @@ In this project, single-PE communication has been implemented using the row stat
 There are two input feature maps, each with a size of 4*3*3, and two filters, each with a size of 3*3*3.
 ## Architecture
 ![architecture drawio (2)](https://user-images.githubusercontent.com/69788052/235361569-a632de7b-059a-4b93-85fa-4828e51c13c0.png)
-## Introduction to the function of each .v file
+## The function of each .v file
 |  **Code**         | **Function**  |
 |  ---------------  | ---  |
 |  PE.v             | The top module designed for wiring purposes.  |
